@@ -1,1 +1,1 @@
-Im trying to learn React, and get used to deploy on Netlify
+I'm trying to learn React and get used to deploying on Netlify
